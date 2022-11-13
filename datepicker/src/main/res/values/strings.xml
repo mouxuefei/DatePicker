@@ -1,0 +1,7 @@
+<resources>
+    <string name="ycuwq_datepicker_cancel">Cancel</string>
+    <string name="ycuwq_datepicker_decide">Sure</string>
+    <string name="ycuwq_datepicker_hour" translatable="false">H</string>
+    <string name="ycuwq_datepicker_minute" translatable="false">m</string>
+    <string name="ycuwq_datepicker_second" translatable="false">s</string>
+</resources>
